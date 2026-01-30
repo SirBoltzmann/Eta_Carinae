@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Eta Carinae",
+    "slug": "eta-carinae",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/adaptive-icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#070105"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "backgroundColor": "#070105",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#070105"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.etacarinae",
+      "permissions": [
+        "FOREGROUND_SERVICE"
+      ],
+      "foregroundService": {
+        "notificationTitle": "Playing...",
+        "notificationBody": "Your music still playing"
+      }
+    },
+    "web": {
+      "favicon": "./assets/adaptive-icon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
