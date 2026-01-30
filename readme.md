@@ -71,7 +71,7 @@ _Intensive 7 Days — From Zero to Master_
 ### 🌟 **Day 7: Mini Project (Real App)**
 - [ ] Choose a project idea:
   - [ ] To-Do App
-  - [ ] Music List App
+  - [x] Music List App
   - [ ] Planet Explorer 🌌
   - [ ] Profile + Settings App
 - [ ] Multiple screens.
