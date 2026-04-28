@@ -19,8 +19,9 @@ Enfocada en ofrecer una experiencia de usuario fluida, interfaces modernas y una
 
 ## 📱 **Preview**
 
-![Home Screen](./assets/home.png)
-![Player Screen](./assets/player.png)
+![Home Screen](./assets/cosmic-player-1.jpeg)
+![Player Screen](./assets/cosmic-player-3.jpeg)
+![Player Mini Screen](./assets/cosmic-player-4.jpeg)
 
 ---
 
