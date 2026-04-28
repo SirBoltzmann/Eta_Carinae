@@ -1,11 +1,9 @@
 ---
 
-## **🛣️ Roadmap React Native 🌌**
+## **React Native - Music Player**
 ---
 
 ### 🌱 **Fundamentos esenciales**
-- [x] Understand what React Native is and how it works.
-- [x] Differences between React Native, React Web and native apps.
 - [x] Expo vs React Native CLI (why we start with Expo).
 - [x] Install Node.js and Expo CLI.
 - [x] Create your first React Native app.
