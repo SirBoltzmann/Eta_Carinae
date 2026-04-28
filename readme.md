@@ -1,7 +1,6 @@
 ---
 
 ## **React Native - Music Player**
----
 
 ### 🌱 **Fundamentos esenciales**
 - [x] Expo vs React Native CLI (why we start with Expo).
@@ -63,6 +62,9 @@
 - [ ] Organize folders like a real project.
 
 ---
+
+### **Finished App**
+
 ---
 
 💛 *Progress with patience, discipline and love for learning.*
