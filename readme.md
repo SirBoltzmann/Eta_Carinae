@@ -1,73 +1,42 @@
----
+# 🎧 **Cosmic Player - React Native Music Player**
 
-## **React Native - Music Player**
-
-### 🌱 **Fundamentos esenciales**
-- [x] Expo vs React Native CLI (why we start with Expo).
-- [x] Install Node.js and Expo CLI.
-- [x] Create your first React Native app.
-- [x] Explore project structure.
-- [x] Run the app on emulator or physical device (Expo Go).
-- [x] Edit `App.js / App.tsx` and test hot reload.
+Aplicación móvil desarrollada con React Native (Expo), inspirada en plataformas como YouTube Music.  
+Enfocada en ofrecer una experiencia de usuario fluida, interfaces modernas y una arquitectura clara y escalable.
 
 ---
 
-### 🌷 **Components, JSX & Styling**
-- [x] JSX syntax in React Native.
-- [x] Functional components.
-- [x] Props.
-- [x] Core components: `View`, `Text`, `Image`.
-- [x] Styling with `StyleSheet`.
-- [x] Differences between CSS (web) and RN styles.
-- [x] Build a simple Profile Screen UI.
+## ✨ **Features**
+
+- 🎵 Reproducción de música
+- 📱 Navegación entre pantallas (React Navigation)
+- 🧠 Manejo de estado global con Context API
+- 💾 Persistencia de datos (historial de reproducción)
+- ⚡ Optimización de rendimiento con hooks (useMemo, useEffect)
+- 🎨 Animaciones para mejorar la experiencia de usuario
+- 📐 Diseño responsive enfocado en mobile
 
 ---
 
-### 🌻 **State & User Interaction**
-- [ ] Understand `useState`.
-- [ ] Handle user events (`onPress`).
-- [ ] Buttons & touchables (`Pressable`, `TouchableOpacity`).
-- [ ] Conditional rendering.
-- [ ] Basic component logic.
-- [ ] Create an interactive counter or card.
+## 📱 **Preview**
+
+![Home Screen](./assets/home.png)
+![Player Screen](./assets/player.png)
 
 ---
 
-### 🌼 **Layout & Responsive Design**
-- [ ] Flexbox in React Native (core skill).
-- [ ] `SafeAreaView`.
-- [ ] `ScrollView`.
-- [ ] Responsive layouts for different screen sizes.
-- [ ] Spacing, alignment and proportions.
-- [ ] Build a clean Home Screen layout.
+## 🛠️ **Tech Stack**
+
+- React Native (Expo)
+- JavaScript / TypeScript
+- React Navigation
+- Context API
 
 ---
 
-### 🌸 **Lists & Data Rendering**
-- [ ] Render arrays in React Native.
-- [ ] `FlatList` fundamentals.
-- [ ] `keyExtractor`.
-- [ ] Reusable list components.
-- [ ] Performance basics for lists.
-- [ ] Build a list-based screen (tasks, music, planets 🌌).
+## 🚀 Getting Started
 
----
-
-### 🌺 **Navigation Between Screens**
-- [ ] Install React Navigation.
-- [ ] Stack Navigator.
-- [ ] Create multiple screens.
-- [ ] Navigate between screens.
-- [ ] Pass parameters between screens.
-- [ ] Organize folders like a real project.
-
----
-
-### **Finished App**
-
----
-
-💛 *Progress with patience, discipline and love for learning.*
-🌱 *Strong foundations create strong developers.*
-
----
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+npm install
+npx expo start
