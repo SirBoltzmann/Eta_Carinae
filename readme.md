@@ -1,11 +1,9 @@
 ---
 
 ## **🛣️ Roadmap React Native 🌌**
-_Intensive 7 Days — From Zero to Master_
-
 ---
 
-### 🌱 **Day 1: Fundamentos esenciales**
+### 🌱 **Fundamentos esenciales**
 - [x] Understand what React Native is and how it works.
 - [x] Differences between React Native, React Web and native apps.
 - [x] Expo vs React Native CLI (why we start with Expo).
@@ -17,7 +15,7 @@ _Intensive 7 Days — From Zero to Master_
 
 ---
 
-### 🌷 **Day 2: Components, JSX & Styling**
+### 🌷 **Components, JSX & Styling**
 - [x] JSX syntax in React Native.
 - [x] Functional components.
 - [x] Props.
@@ -28,7 +26,7 @@ _Intensive 7 Days — From Zero to Master_
 
 ---
 
-### 🌻 **Day 3: State & User Interaction**
+### 🌻 **State & User Interaction**
 - [ ] Understand `useState`.
 - [ ] Handle user events (`onPress`).
 - [ ] Buttons & touchables (`Pressable`, `TouchableOpacity`).
@@ -38,7 +36,7 @@ _Intensive 7 Days — From Zero to Master_
 
 ---
 
-### 🌼 **Day 4: Layout & Responsive Design**
+### 🌼 **Layout & Responsive Design**
 - [ ] Flexbox in React Native (core skill).
 - [ ] `SafeAreaView`.
 - [ ] `ScrollView`.
@@ -48,7 +46,7 @@ _Intensive 7 Days — From Zero to Master_
 
 ---
 
-### 🌸 **Day 5: Lists & Data Rendering**
+### 🌸 **Lists & Data Rendering**
 - [ ] Render arrays in React Native.
 - [ ] `FlatList` fundamentals.
 - [ ] `keyExtractor`.
@@ -58,7 +56,7 @@ _Intensive 7 Days — From Zero to Master_
 
 ---
 
-### 🌺 **Day 6: Navigation Between Screens**
+### 🌺 **Navigation Between Screens**
 - [ ] Install React Navigation.
 - [ ] Stack Navigator.
 - [ ] Create multiple screens.
@@ -67,19 +65,6 @@ _Intensive 7 Days — From Zero to Master_
 - [ ] Organize folders like a real project.
 
 ---
-
-### 🌟 **Day 7: Mini Project (Real App)**
-- [ ] Choose a project idea:
-  - [ ] To-Do App
-  - [x] Music List App
-  - [ ] Planet Explorer 🌌
-  - [ ] Profile + Settings App
-- [ ] Multiple screens.
-- [ ] State management.
-- [ ] Lists and navigation.
-- [ ] Clean UI and layout.
-- [ ] Final polish and testing.
-
 ---
 
 💛 *Progress with patience, discipline and love for learning.*
