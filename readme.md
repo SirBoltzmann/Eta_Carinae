@@ -20,9 +20,9 @@ Enfocada en ofrecer una experiencia de usuario fluida, interfaces modernas y una
 ## 📱 **Preview**
 
 <p align="center">
-  <img src="./assets/cosmic-player-1.jpeg" width="500" />
-  <img src="./assets/cosmic-player-3.jpeg" width="500" />
-  <img src="./assets/cosmic-player-4.jpeg" width="500" />
+  <img src="./assets/cosmic-player-1.jpeg" width="300" />
+  <img src="./assets/cosmic-player-3.jpeg" width="300" />
+  <img src="./assets/cosmic-player-4.jpeg" width="300" />
 </p>
 
 ---
